@@ -2,6 +2,8 @@
 
 Agent skills for OpenClaw — your personal AI assistant.
 
+**Browse all skills:** https://clawhub.ai/ricanwarfare/
+
 ## Skills
 
 | Skill | Description |
