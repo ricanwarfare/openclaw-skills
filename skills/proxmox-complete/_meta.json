@@ -1,0 +1,4 @@
+{
+  "version": "1.0.0",
+  "description": "Comprehensive Proxmox VE management: power control, snapshots, backups, storage, tasks. Merged from robnew/proxmox-skill and weird-aftertaste/proxmox."
+}
