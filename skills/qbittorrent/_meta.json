@@ -1,0 +1,4 @@
+{
+  "version": "1.0.0",
+  "description": "Manage torrents with qBittorrent WebUI API. List, add, pause, resume, delete torrents. Monitor download progress and speed limits."
+}
