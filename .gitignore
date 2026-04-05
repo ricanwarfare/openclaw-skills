@@ -1,0 +1,16 @@
+# Credentials
+*_api.txt
+*.key
+*.pem
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
