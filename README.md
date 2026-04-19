@@ -8,7 +8,7 @@ Agent skills for OpenClaw — your personal AI assistant.
 
 | Skill | Description |
 |-------|-------------|
-| [docsliteparse](./skills/docsliteparse/) | Parse unstructured documents (PDF, DOCX, PPTX, XLSX, images) locally with LiteParse — text extraction, JSON output with bounding boxes, batch processing, and page screenshots. No cloud dependencies. |
+| [liteparse-docs](./skills/liteparse-docs/) | Parse unstructured documents (PDF, DOCX, PPTX, XLSX, images) locally with LiteParse — text extraction, JSON output with bounding boxes, batch processing, and page screenshots. No cloud dependencies. |
 | [fal-api](./skills/fal-api/) | Fal.Ai Media Generation — Generate images, videos, and audio via fal.ai API (FLUX, SDXL, Whisper, etc.) |
 | [ha-skill](./skills/ha-skill/) | Control Home Assistant entities via REST API. Supports climate (thermostat), light, switch, and sensor queries. Control lights, climate, switches, and monitor sensors. |
 | [monochrome](./skills/monochrome/) | Browse and search music from monochrome.tf (Tidal-based Hi-Fi streaming). Search artists, albums, tracks, and get streaming URLs. High-fidelity audio streaming and discovery. |
